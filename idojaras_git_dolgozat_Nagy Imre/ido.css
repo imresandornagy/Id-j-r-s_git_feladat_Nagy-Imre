@@ -84,3 +84,7 @@ dt{
 	float: right;
 	width: 5vw;
 }
+
+input[type="text"]{
+	background-color: #808183;
+}
